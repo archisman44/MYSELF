@@ -103,3 +103,37 @@ This project is configured to run with a standard Node.js and npm workflow.
     └── services/
         └── geminiService.ts
 ```
+✅ Sample User Queries to Test Your Chatbot
+🔹 General Health
+"I have a fever and body ache. What could it be?"
+
+"I'm feeling dizzy and nauseous after skipping lunch. Should I be worried?"
+
+"I have a headache for 3 days. Could it be something serious?"
+
+🔹 Condition-Specific
+"I feel a burning sensation when I urinate. What might be causing this?"
+
+"I’ve been coughing for over a week. Could this be COVID-19?"
+
+"I have chest tightness after climbing stairs. Is it a heart issue?"
+
+🔹 First-Aid & Emergency Guidance
+"I accidentally cut my hand deeply. What should I do before seeing a doctor?"
+
+"My friend fainted suddenly. What immediate steps should I take?"
+
+🔹 Lab Report Help
+"My CBC report says elevated WBC. What does that mean?"
+
+"What does SGPT and SGOT mean in a liver function test?"
+
+🔹 Women's Health
+"My period is late by 10 days. Should I take a test?"
+
+"I'm pregnant and have lower back pain. Is that normal?"
+
+🔹 Multilingual Prompt
+"Translate your response to Hindi please."
+
+"Explain my symptoms in simple Bengali."
