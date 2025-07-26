@@ -1,0 +1,7 @@
+{
+  "name": "Chikitsak: AI Medical Assistant",
+  "description": "An AI-powered medical assistant that helps users understand their symptoms through a conversational voice and text interface. It provides possible explanations and guidance on when to seek professional medical help.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
